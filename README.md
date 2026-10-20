@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/aziziq0201/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aziziq0201/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aziziq0201/LeetCode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
