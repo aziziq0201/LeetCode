@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/aziziq0201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aziziq0201/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aziziq0201/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/aziziq0201/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
