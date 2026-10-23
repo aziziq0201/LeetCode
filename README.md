@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aziziq0201/LeetCode/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/aziziq0201/LeetCode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
