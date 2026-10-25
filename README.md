@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aziziq0201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aziziq0201/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aziziq0201/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1929-concatenation-of-array](https://github.com/aziziq0201/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aziziq0201/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/aziziq0201/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
