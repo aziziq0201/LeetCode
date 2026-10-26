@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aziziq0201/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/aziziq0201/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/aziziq0201/LeetCode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aziziq0201/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/aziziq0201/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/aziziq0201/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -62,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aziziq0201/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/aziziq0201/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
