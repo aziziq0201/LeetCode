@@ -89,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/aziziq0201/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aziziq0201/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aziziq0201/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aziziq0201/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aziziq0201/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
