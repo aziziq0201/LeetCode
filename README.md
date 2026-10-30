@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aziziq0201/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aziziq0201/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aziziq0201/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/aziziq0201/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aziziq0201/LeetCode/tree/master/0226-invert-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
