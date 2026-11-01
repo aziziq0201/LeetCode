@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aziziq0201/LeetCode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/aziziq0201/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/aziziq0201/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/aziziq0201/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
