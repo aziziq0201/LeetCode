@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/aziziq0201/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aziziq0201/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aziziq0201/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aziziq0201/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aziziq0201/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aziziq0201/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
