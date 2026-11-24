@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aziziq0201/LeetCode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/aziziq0201/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aziziq0201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aziziq0201/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/aziziq0201/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/aziziq0201/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aziziq0201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/aziziq0201/LeetCode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/aziziq0201/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aziziq0201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
