@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aziziq0201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aziziq0201/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aziziq0201/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/aziziq0201/LeetCode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/aziziq0201/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/aziziq0201/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aziziq0201/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aziziq0201/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aziziq0201/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aziziq0201/LeetCode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/aziziq0201/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aziziq0201/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aziziq0201/LeetCode/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
